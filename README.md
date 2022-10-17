@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently learning **Software Development**
 
-- 🌱 I’m currently learning **CSS,HTML5,Java Script,C++**
+- 🌱 I’m currently learning **CSS,HTML5,Java Script,C++,SCSS**
 
 - 💼 Student. [Universitas pramita](https://unpri.ac.id/)
 
